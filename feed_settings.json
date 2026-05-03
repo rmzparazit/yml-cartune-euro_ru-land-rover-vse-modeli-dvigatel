@@ -1,0 +1,36 @@
+{
+    "pattern": "autoparts",
+    "use_ai_extraction": false,
+    "target_urls": [
+        "https://cartune-euro.ru/land-rover/vse-modeli/dvigatel/"
+    ],
+    "shop_name": "cartune-euro.ru",
+    "company_name": "cartune-euro.ru",
+    "site_url": "https://cartune-euro.ru/",
+    "cdata_mode": "auto",
+    "skip_empty_price": false,
+    "auto_oldprice": true,
+    "split_feeds": true,
+    "interactive_selection": false,
+    "auto_github_export": false,
+    "cron_schedule": "0 3 * * *",
+    "spin_enabled": true,
+    "spin_templates": [
+        "{name} c доставкой",
+        "{name} с гарантией",
+        "{name} заказать",
+        "{name} купить"
+    ],
+    "default_sales_notes": "",
+    "default_offer_description": "",
+    "default_collection_description": "",
+    "feed_mode": "1",
+    "duplicate_offers": true,
+    "title_prefix": "",
+    "auto_product_signatures": [
+        "/autopart-product/*"
+    ],
+    "auto_category_signatures": [],
+    "ai_synonymization": false,
+    "output_file": "cartune-euro_ru_land-rover_vse-modeli_dvigatel_feed.xml"
+}

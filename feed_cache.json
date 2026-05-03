@@ -1,0 +1,122 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0db966/": {
+        "fingerprint": "842d3d8ecc3fbfa6c6a8669248cd9db3",
+        "raw_data": {
+            "h1_title": "Двигатель Land Rover FREELANDER 2007 L359 B6324S",
+            "brand": "Land Rover",
+            "price_raw": "104999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_321.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/76/0010_76_207.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/77/0010_77_098.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/76/0010_76_208.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/76/0010_76_209.jpg"
+            ],
+            "specs": {
+                "Марка": "Land Rover",
+                "Модель": "FREELANDER",
+                "Кузов": "L359",
+                "Двигатель": "B6324S",
+                "Год": "2007",
+                "Номер по производителю": "LR021425",
+                "Производитель": "Land Rover",
+                "Пробег": "93 728 км"
+            },
+            "available": true,
+            "category_name": "Двигатели Land Rover FREELANDER",
+            "category_usp": "",
+            "description_usp": "Контрактный двигатель B6324S, пробег 93 728 км, проверен",
+            "sales_notes": "Гарантия 14 дней, возможна проверка эндоскопом",
+            "custom_labels": [
+                "Б/У",
+                "Land Rover",
+                "Двигатели Land Rover FREELANDER",
+                "Контрактный"
+            ],
+            "variations": [
+                {
+                    "title": "Двигатель Land Rover FREELANDER 2007 L359 B6324S",
+                    "description": "Контрактный двигатель B6324S с пробегом 93 728 км. Проверен на работоспособность. Есть аукционный лист из Японии. Возможна продажа без навесного оборудования."
+                },
+                {
+                    "title": "Двигатель Land Rover FREELANDER 2007 L359 B6324S",
+                    "description": "Оригинальный двигатель B6324S для FREELANDER L359. Пробег 93 728 км. Предоставим фото и видео работы. Проверка эндоскопом по запросу."
+                },
+                {
+                    "title": "Двигатель Land Rover FREELANDER 2007 L359 B6324S",
+                    "description": "Двигатель B6324S в сборе. Полный пакет документов: ГТД, договор купли-продажи. Гарантия 14 дней. Доставка по РФ."
+                },
+                {
+                    "title": "Двигатель Land Rover FREELANDER 2007 L359 B6324S",
+                    "description": "Контрактный двигатель B6324S для FREELANDER 2007. Пробег 93 728 км. Возможна проверка эндоскопом. Цена за двигатель в сборе как на фото."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Контрактный двигатель {brand} {specs[Модель]} {specs[Кузов]} {specs[Двигатель]}. Пробег {specs[Пробег]}. Гарантия."
+        },
+        "last_seen": "2026-05-03T20:57:11.993932"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0db082/": {
+        "fingerprint": "c6a588b5019ceb81e659be3155ddb28b",
+        "raw_data": {
+            "h1_title": "Двигатель Land Rover DISCOVERY 3 2006 L319 V6 4.0 EFI",
+            "brand": "Land Rover",
+            "price_raw": "199999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_876.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_098.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_140.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_099.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_100.jpg"
+            ],
+            "specs": {
+                "Марка": "Land Rover",
+                "Модель": "DISCOVERY 3",
+                "Кузов": "L319",
+                "Двигатель": "V6 4.0 EFI (SOHC) (200AB)",
+                "Год": "2006",
+                "Номер по производителю": "4743590",
+                "Производитель": "Land Rover",
+                "Кросс-номера": "4743591, LBB500530"
+            },
+            "available": true,
+            "category_name": "Двигатели Land Rover Discovery 3",
+            "category_usp": "",
+            "description_usp": "Контрактный двигатель Land Rover DISCOVERY 3 2006 L319 V6 4.0 EFI (SOHC) (200AB) 4743590",
+            "sales_notes": "Гарантия 14 дней. Возможна проверка эндоскопом",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Land Rover",
+                "Двигатели Land Rover Discovery 3"
+            ],
+            "variations": [
+                {
+                    "title": "Двигатель Land Rover DISCOVERY 3 2006 L319 V6 4.0 EFI",
+                    "description": "Контрактный двигатель с пробегом 153 255 км. Проверен на работоспособность. Есть аукционный лист из Японии. Возможна продажа без навесного."
+                },
+                {
+                    "title": "Двигатель Land Rover DISCOVERY 3 2006 L319 V6 4.0 EFI",
+                    "description": "Оригинальный пробег 153 255 км. Предоставим подробное фото и видео работы ДВС. Возможна проверка эндоскопом."
+                },
+                {
+                    "title": "Двигатель Land Rover DISCOVERY 3 2006 L319 V6 4.0 EFI",
+                    "description": "Полный пакет документов: копия ГТД, договор купли-продажи. Цена за двигатель в сборе как на фото."
+                },
+                {
+                    "title": "Двигатель Land Rover DISCOVERY 3 2006 L319 V6 4.0 EFI",
+                    "description": "В наличии на складе в Москве. Гарантия 14 дней. Возможна доставка."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Контрактный двигатель {brand} {specs[Модель]} {specs[Год]} {specs[Кузов]} {specs[Двигатель]}. Пробег {specs[Пробег]} км. Гарантия."
+        },
+        "last_seen": "2026-05-03T20:57:38.240256"
+    }
+}
